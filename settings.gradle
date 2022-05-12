@@ -1,0 +1,3 @@
+rootProject.name='AmapTest'
+include ':app'
+include ':u2a'
